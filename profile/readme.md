@@ -5,7 +5,7 @@ ScrityOS AOSP
 
 > Welcome to ScrityOS AOSP!
 
-> We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the best Android has to offer, ~~strongly inspired by [AOSiP](https://github.com/AOSiP)~~
+> ScrityOS is based on FortuneOS, a project by @Kizziama (also their Telegram handle). I have deep respect for this project and am using its AOSP foundation in a community-driven way. This ROM will be focused exclusively on Android 15, serving as a platform for learning and exploring Android development. You could say this is a Kang, but it’s not—credits are right up there. Think of it as "community borrowing with permission!"
 
 ### Maybe what you need
 
